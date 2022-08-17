@@ -1,0 +1,89 @@
+.hotbar {
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #8dd7bf;
+    color:black;
+    text-transform: uppercase;
+    position: relative;
+    text-decoration: none;
+
+}
+
+.hotbar p {
+    font-size: larger;
+    text-align: center;
+}
+.hotbar a {
+    font-size: larger;
+    text-decoration: none;
+    text-align: center;
+}
+
+.hotbar p:hover {
+    color: white;
+    transition: .3s;
+    font-weight: 1000;
+}
+
+.hotbar a:hover {
+    color: white;
+    transition: .3s;
+    font-weight: 1000;
+}
+
+h1 {
+    color:#00A5E3;
+    stroke:black;
+    -webkit-text-stroke: .1px black;
+}
+
+h3 {
+    color:#00A5E3;
+    stroke:black;
+    -webkit-text-stroke: .1px black;
+}
+
+body {
+    background-color: #00A5E3;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.abel {
+    width: 280px;
+    border-style: solid;
+}
+
+.n1 {
+    width: 280px;
+    border-style: solid;
+
+}
+
+.n2 {
+    width: 280px;
+    border-style: solid;
+
+}
+
+.mags {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.solomon {
+    width: 280px;
+    border-style: solid;
+
+}
+
+.omega {
+    margin-top: 13%;
+    align-content: center;
+}
+
